@@ -1,0 +1,11 @@
+OrderID,CustomerID,OrderDate,ProductCategory,ProductSubCategory,Quantity,UnitPrice,TotalPrice,Region,CustomerSegment
+1001,C001,2024-01-10,Electronics,Laptops,1,2500.00,2500.00,North,Individual
+1002,C002,2024-01-15,Clothing,T-Shirts,5,20.00,100.00,South,Individual
+1003,C003,2024-01-18,Electronics,Smartphones,2,800.00,1600.00,East,Small Business
+1004,C001,2024-01-22,Clothing,Jeans,1,60.00,60.00,North,Individual
+1005,C004,2024-01-25,Home Goods,Furniture,1,400.00,400.00,West,Individual
+1006,C002,2024-02-01,Electronics,Laptops,1,2400.00,2400.00,South,Small Business
+1007,C005,2024-02-05,Clothing,T-Shirts,3,22.00,66.00,East,Individual
+1008,C003,2024-02-10,Home Goods,Decor,10,15.00,150.00,North,Individual
+1009,C004,2024-02-14,Electronics,Smartphones,1,780.00,780.00,West,Small Business
+1010,C001,2024-02-20,Home Goods,Furniture,2,380.00,760.00,South,Individual
